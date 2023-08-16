@@ -7,7 +7,7 @@ export default function Home() {
     <Layout title= 'DashboardPage'>
       <main>
         <p>
-          DashboardPage Revisi 111111111
+          DashboardPage Revisi ke semua
         </p>
       </main>
           </Layout>
