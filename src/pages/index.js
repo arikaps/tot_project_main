@@ -1,9 +1,16 @@
+import Layout from '@/components/Layout'
 import DashboardPage from '@/module/dashboard'
 
 export default function Home() {
   return (
     <>
-      <DashboardPage />
+    <Layout title= 'DashboardPage'>
+      <main>
+        <p>
+          DashboardPage Revisi 1
+        </p>
+      </main>
+          </Layout>
     </>
   )
 }
