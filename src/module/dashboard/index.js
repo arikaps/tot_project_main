@@ -9,8 +9,8 @@ export default function DashboardPage(){
           <p></p>
           <p>Dashboard Page</p>
           <Button>
-      Settings
-    </Button>
+          Settings
+          </Button>
         </main>
       </Layout>
     </>
