@@ -5,7 +5,7 @@ export default function FoodPage(){
     <>
       <Layout title='Food Page'>
         <main>
-          <p>Food Page</p>
+          <p>Food Page COBAA</p>
         </main>
       </Layout>
     </>
