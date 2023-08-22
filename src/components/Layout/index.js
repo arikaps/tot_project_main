@@ -55,7 +55,7 @@ const Layout = ({children, title}) => {
                   <IconLogout />
                 </ThemeIcon>
                 
-                <Text size="sm">Log out</Text>
+                <Text size="sm">Log innnnnn</Text>
               </Group>
             </UnstyledButton>
           </Navbar.Section>
