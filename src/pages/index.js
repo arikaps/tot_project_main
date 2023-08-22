@@ -10,7 +10,7 @@ export default function Home() {
           DashboardPage Revisi nammmm
         </p>
       </main>
-          </Layout>
+      </Layout>
     </>
   )
 }
