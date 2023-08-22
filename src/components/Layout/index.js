@@ -51,7 +51,7 @@ const Layout = ({children, title}) => {
               })}
             >
               <Group>
-                <ThemeIcon color={'blue'} variant="light">
+                <ThemeIcon color={'red'} variant="light">
                   <IconLogout />
                 </ThemeIcon>
                 
