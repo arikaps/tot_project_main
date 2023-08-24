@@ -24,6 +24,7 @@ const Layout = ({children, title}) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <AppShell
         padding="md"
         navbar={
@@ -51,11 +52,12 @@ const Layout = ({children, title}) => {
               })}
             >
               <Group>
+
                 <ThemeIcon color={'blue'} variant="light">
                   <IconLogout />
                 </ThemeIcon>
                 
-                <Text size="sm">Log out</Text>
+                <Text size="s">Log out</Text>
               </Group>
             </UnstyledButton>
           </Navbar.Section>
@@ -70,6 +72,7 @@ const Layout = ({children, title}) => {
           main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] },
         })}
     >
+      
       <Container
         size='xl'
         style={{width:'100%'}}
